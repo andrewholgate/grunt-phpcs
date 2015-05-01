@@ -112,3 +112,8 @@ Log report to the file.
 Type: `Integer` Default: `false`
 
 Automatically convert tabs to the specified number of spaces when sniffing.
+
+####force
+Type: `Boolean` Default: `false`
+
+Continue running grunt in the event of failures.
